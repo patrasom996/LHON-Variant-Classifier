@@ -24,7 +24,5 @@ By engineering features based on amino acid physicochemical properties (Hydropho
 | Random Forest (Baseline) | Hydrophobicity, MW | 40.0% |
 | **SVM (Optimized)** | **Hydrophobicity, MW, Charge** | **73.3%** |
 
-##  How to Run
-1. Install dependencies:
-   ```bash
-   pip install pandas scikit-learn numpy
+
+   
