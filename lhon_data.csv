@@ -1,0 +1,12 @@
+Gene,Protein_Change,Classification
+ASAH1,"V75fs, V10fs, V91fs",Pathogenic
+ASAH1,"Y75*, Y82*, Y59*",Pathogenic/Likely pathogenic
+DNAJC30,H77del,Pathogenic
+DNAJC30|LOC129998603,S44fs,Pathogenic
+DNAJC30,Y98S,Likely pathogenic
+DNAJC30,L101Q,Pathogenic
+DNAJC30,P78S,Pathogenic
+DNAJC30|LOC129998603,Y51C,Pathogenic/Likely pathogenic
+MT-ND5,F124L,Likely pathogenic
+NDUFS2,Y282C,Pathogenic
+NDUFS2,A90T,Likely pathogenic
